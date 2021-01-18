@@ -1,3 +1,3 @@
 # CrewRotationsAPI
 
-An API to help keeping track on Protege crew rotations.
+An API to help keeping track with Protege crew rotations.
